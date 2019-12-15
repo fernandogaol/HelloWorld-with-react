@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: lightseagreen;
+}
+
+.app-title {
+  text-align: center;
+  color: lightsalmon;
+  text-shadow: 2px 2px black;
+  padding: 40px;
+}
+.app-buttons {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  padding: 10px 10px;
+}
+.app-buttons button {
+  height: 35px;
+  width: 70px;
+  margin: 5px;
+  color: black;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: lightsalmon;
+}
